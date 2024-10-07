@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaperMVVM</string>
+    <string name="add_car">Add Car</string>
+</resources>
